@@ -1,8 +1,8 @@
-﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
 					xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
 					xmlns:metro="http://schemes.grabacr.net/winfx/2014/controls">
 
-	<Style x:Key="PinButtonStyleKey"
+	<Style x:Key="RetroPinButtonStyleKey"
 		   TargetType="{x:Type metro:CaptionButton}">
 		<Setter Property="Mode"
 				Value="Toggle" />
